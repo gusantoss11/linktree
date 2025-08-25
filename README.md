@@ -4,4 +4,4 @@
 # Linktree
 projeto linktree  usando HTML e CSS
 ## autor
-Gustavo Santos
+Gustavo Santos De Oliveira
