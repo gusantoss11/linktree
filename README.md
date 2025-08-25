@@ -1,2 +1,7 @@
-# linktree
-projeto linktree feito por mim no SENAC TATUAPÉ com o professor josé de assis 
+![GitHub License](https://img.shields.io/github/license/gusantoss11/linktree?style=plastic)
+
+
+# Linktree
+projeto linktree  usando HTML e CSS
+## autor
+Gustavo Santos
